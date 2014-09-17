@@ -88,7 +88,6 @@ done
 # Merge into one file
 vcf-merge $INFOLDER/*.vcf.gz | bgzip -c > $OUTFOLDER/vcf-merged.vcf.gz
 
-
 # Now let's do filtering, based on Jack's specifications
 # min DP: 10
 # min GQ: 20 (we used to use 30 but now we are going with 20)
