@@ -19,3 +19,6 @@
 #   For future note, references are here:
 #   ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release
 
+# Try doing two ways - 1) filtering out all that don't pass, 2) filtering out specific thresholds
+
+NOT YET WRITTEN!
