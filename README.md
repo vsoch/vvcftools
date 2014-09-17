@@ -15,8 +15,8 @@ Vanessa VCF tools use the vcftools and tabix to do the following:
 - Export as both zipped vcf and tab separated file
 
 ## Input arguments
-#   INFOLDER: an input folder with VCFs
-#   OUTFOLDER: an output folder for the tab delimited matrix of variants
+INFOLDER: an input folder with VCFs
+OUTFOLDER: an output folder for the tab delimited matrix of variants
 
 ## Usage
 parseVCF.sh /home/vanessa/Documents/Work/tutorial/vcf/input /home/vanessa/Documents/Work/vcf/output
